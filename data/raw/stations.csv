@@ -1,0 +1,9 @@
+station_id,station_name,district,capacity
+B001,Central Square,Central,35
+B002,Riverfront,East,22
+B003,Tech Park,West,30
+B004,University Gate,North,28
+B005,Old Market,South,18
+B006,Airport Link,North,40
+B007,Museum Road,Central,16
+B008,Lake View,East,24
